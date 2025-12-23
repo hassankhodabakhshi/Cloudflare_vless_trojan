@@ -1,8 +1,8 @@
 //nat64自动填充proxyip，无需且不支持proxyip设置
 import { connect } from "cloudflare:sockets";
 const WS_READY_STATE_OPEN = 1;
-let userID = "5fc4b09d-7728-4a1b-8033-083c58b47e3e";
-const cn_hostnames = [''];
+let userID = "b0ce4673-6acd-4246-ac39-05af4e2876e4";
+const cn_hostnames = ['speed1.wittenberg-net.de'];
 let CDNIP = '\u0077\u0077\u0077\u002e\u0076\u0069\u0073\u0061\u002e\u0063\u006f\u006d\u002e\u0073\u0067'
 // http_ip
 let IP1 = '\u0077\u0077\u0077\u002e\u0076\u0069\u0073\u0061\u002e\u0063\u006f\u006d'
